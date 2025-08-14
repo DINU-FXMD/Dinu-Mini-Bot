@@ -1,0 +1,21 @@
+module.exports = {
+    AUTO_VIEW_STATUS: 'true',
+    AUTO_LIKE_STATUS: 'true',
+    AUTO_RECORDING: 'true',
+    AUTO_LIKE_EMOJI: ['🧩', '🍉', '💜', '🌸', '🪴', '💊', '💫', '🍂', '🌟', '🎋', '😶‍🌫️', '🫀', '🧿', '👀', '🤖', '🚩', '🥰', '🗿', '💜', '💙', '🌝', '🖤', '💚'],
+    PREFIX: '.',
+    MAX_RETRIES: 3,
+    GROUP_INVITE_LINK: 'https://chat.whatsapp.com/KKrBQmywvsw8vw3W7OANTS?mode=r_c',
+    ADMIN_LIST_PATH: './admin.json',
+    IMAGE_PATH: 'https://i.ibb.co/PJvjMx9/20250717-093632.jpg',
+    NEWSLETTER_JID: '120363404913442592@newsletter',
+    NEWSLETTER_MESSAGE_ID: '428',
+    OTP_EXPIRY: 300000,
+    NEWS_JSON_URL: '',
+    BOT_NAME: 'Queen SHALA MD',
+    OWNER_NAME: 'Nethmika',
+    OWNER_NUMBER: '94704227534',
+    BOT_VERSION: '1.0.0',
+    BOT_FOOTER: '> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Qᴜᴇᴇɴ-ꜱʜᴀʟᴀ-ᴍᴅ',
+    CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vb1WkmNJP2121yQf143q'
+};
